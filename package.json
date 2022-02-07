@@ -4,6 +4,6 @@
     "@apify/http-request": "^2.1.2",
     "express": "^4.17.2",
     "googlethis": "^1.2.7",
-    "phonetz": "^1.0.1"
+    "replace-special-characters": "^1.2.5"
   }
 }
