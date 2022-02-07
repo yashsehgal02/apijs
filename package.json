@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@apify/google-extractors": "^1.2.3",
+    "@apify/http-request": "^2.1.2",
+    "express": "^4.17.2",
+    "googlethis": "^1.2.7",
+    "phonetz": "^1.0.1"
+  }
+}
